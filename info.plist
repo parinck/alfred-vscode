@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>de.kbueschel.alfred.visualstudiocode</string>
+	<string>com.parinkat.alfred.vscode.projects</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -66,13 +66,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>Parin</string>
 	<key>description</key>
 	<string></string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Visual Studio Code</string>
+	<string>Parin - Visual Studio Code</string>
 	<key>objects</key>
 	<array>
 		<dict>
