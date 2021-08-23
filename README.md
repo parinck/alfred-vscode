@@ -1,10 +1,10 @@
 # Development
 ```
 $ git clone https://github.com/parinck/alfred-vscode
-$ npm run preuninstall
-$ # delete workflow from Alfred
-$ npm run postinstall
+$ npm run preuninstall # deletes workflow from Alfred
 $ alfy-init
+$ npm run postinstall
+
 ```
 # alfred-vscode
 
