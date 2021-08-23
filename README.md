@@ -1,3 +1,11 @@
+# Development
+```
+$ git clone https://github.com/parinck/alfred-vscode
+$ npm run preuninstall
+$ # delete workflow from Alfred
+$ npm run postinstall
+$ alfy-init
+```
 # alfred-vscode
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
